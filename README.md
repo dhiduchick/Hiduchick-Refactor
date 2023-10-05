@@ -1,6 +1,6 @@
 # Hiduchick Refactor Challenge 1
  Challenge #1 HTML,CSS, and Git code refractor.
- 
+
  ## About the Project 
  In this challenge we were provided a started code of a website and a user story that included things we needed to change about the code and add the new cababilities the user was requesting. Using both HTML and CSS I was able to make the changes nessesary to adhere to the aceptance criteria with refractoring the code. 
 
@@ -12,4 +12,3 @@ The website provides explinations on serch engine optimization, online reputatio
 
 ## Author 
 -Daelyn Hiduchick
-
